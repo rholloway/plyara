@@ -42,7 +42,8 @@ class Parser(object):
                       'hash',
                       'math',
                       'dotnet',
-                      'androguard')
+                      'androguard'
+                      'json')
 
     KEYWORDS = ('all', 'and', 'any', 'ascii', 'at', 'condition',
                 'contains', 'entrypoint', 'false', 'filesize',
